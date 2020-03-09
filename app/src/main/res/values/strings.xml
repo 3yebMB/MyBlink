@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyBlink</string>
+    <string name="flash_on">Flash On</string>
+    <string name="flash_off">Flash Off</string>
+</resources>
